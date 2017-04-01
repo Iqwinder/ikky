@@ -1,0 +1,88 @@
+
+
+*{
+font-family: 'Gentium Book Basic', serif;
+color:#0D47A1;
+background-color:#E1F5FE ;
+font-size:strong;
+}
+body{
+color:#0D47A1;}
+/**********************    TABLE    ****************************/
+
+#main-table{
+	margin:2.5%;
+	text-align:center;
+	padding:2px;
+	
+}
+
+table{height:auto;
+	width:45%;
+	float:left;
+	text-align:center;
+	border:1px solid black;
+	border-collapse:collapse;
+	vertical-align:center;
+}
+td,th{
+	border:1px solid black;
+	vertical-align:center;
+}
+td:hover{
+	color:white;
+	background-color:gray;
+}
+
+/*********************   BOTTOM DIV  ******************************/
+#right{
+    width:45%;
+	border:1px solid black;
+	text-align:center;
+	margin:2px 2.5%;
+	padding:2px;
+	float:right;
+}
+/***********************  NOTES    ********************************/
+.notes{
+	text-align:justify;
+	padding:2px;
+	margin:10px auto;
+}
+.notes h3{
+text-align:center;
+}
+
+
+
+/****************************    IMAGE       **************************/
+img{
+	padding-right:2px;
+	margin:10px auto;
+}
+/****************************    FIELDSET       **************************/
+fieldset{
+	margin:10px auto;
+	text-align:justify;
+	padding-right:2px;
+}
+
+/****************************    HEADING 2     **************************/
+
+h2{
+	margin:10px auto;
+	padding-right:2px;
+}
+/****************************   FOOTER         **************************/
+footer{
+font-size:.900em;
+clear:both;
+	text-align:center;
+	}
+
+
+
+
+
+
+
